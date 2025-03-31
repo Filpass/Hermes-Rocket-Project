@@ -10,7 +10,7 @@ This repository contains all software, data, and design files used in the develo
 - `/data` – Raw telemetry data from each flight (CSV format)
 - `/analysis` – Static plots and animations generated from telemetry
 
-📄 [Download the full thesis (PDF)](./Design_Fabrication_and_Testing_of_a_3D_Printed_Model_Rocket_with_Integrated_Telemetry_Systems.pdf)
+📄 [Download the full thesis (PDF)](./Design__Fabrication__and_Testing_of_a_3D_Printed_Model_Rocket_with_Integrated_Telemetry_Systems.pdf)
 
 ## 🛰️ Hardware Overview
 
