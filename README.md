@@ -8,7 +8,6 @@ This repository contains all software, data, and design files used in the develo
 - `/code` — Python scripts for telemetry collection, live plotting, and post-flight analysis
 - `/data` — Telemetry data from each flight (CSV format)
 - `/analysis` — Static plots and animations from post-flight processing
-- `/videos` — Onboard camera videos and telemetry animations (hosted externally if needed)
 
 ## 🛰️ Hardware
 
@@ -24,9 +23,8 @@ See `/analysis` for complete telemetry visualizations per flight.
 
 ## 📹 Videos
 
-Due to GitHub size limits, videos are hosted externally:  
-📦 [Google Drive Folder](https://drive.google.com/...)  
-📺 [YouTube (Unlisted)](https://youtube.com/...)
+Due to GitHub size limits, videos are hosted externally: 
+📺 [YouTube (Unlisted)](https://www.youtube.com/playlist?list=PLU9vdCkJsIVlVfhIgIDVsfnCWYGNboWbm)
 
 ## 📜 License
 
