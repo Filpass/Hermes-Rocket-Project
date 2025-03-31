@@ -4,28 +4,31 @@ This repository contains all software, data, and design files used in the develo
 
 ## 📂 Contents
 
-- `/cad` — Nose cone, body tube, and adapter 3D models (.STL)
-- `/code` — Python scripts for telemetry collection, live plotting, and post-flight analysis
-- `/data` — Telemetry data from each flight (CSV format)
-- `/analysis` — Static plots and animations from post-flight processing
+- `Design_Fabrication_and_Testing_of_a_3D_Printed_Model_Rocket_with_Integrated_Telemetry_Systems.pdf` – Master's thesis submitted for the M.Sc. in Space Engineering at Universität Bremen
+- `/cad` – 3D models of nose cone, body tube, and adapter (.STL)
+- `/code` – Python scripts for telemetry collection, live plotting, and post-flight analysis
+- `/data` – Raw telemetry data from each flight (CSV format)
+- `/analysis` – Static plots and animations generated from telemetry
 
-## 🛰️ Hardware
+📄 [Download the full thesis (PDF)](./Design_Fabrication_and_Testing_of_a_3D_Printed_Model_Rocket_with_Integrated_Telemetry_Systems.pdf)
 
-- Raspberry Pi Zero 2W
-- GPS Module: PA1010D
-- Barometric Sensor: DPS310
-- IMU: ICM-20948
-- ESP32-S3 for live telemetry
+## 🛰️ Hardware Overview
+
+- **Main Computer:** Raspberry Pi Zero 2W  
+- **Sensors:**
+  - GPS Module: PA1010D  
+  - Barometric Pressure Sensor: DPS310  
+  - 9-DOF IMU: ICM-20948 
 
 ## 📈 Output
 
-See `/analysis` for complete telemetry visualizations per flight.
+Post-flight data visualization is located in the `/analysis` folder.
 
 ## 📹 Videos
 
-Due to GitHub size limits, videos are hosted externally: 
-📺 [YouTube (Unlisted)](https://www.youtube.com/playlist?list=PLU9vdCkJsIVlVfhIgIDVsfnCWYGNboWbm)
+Due to GitHub storage limits, flight camera and telemetry videos are hosted externally:  
+🎥 [Watch on YouTube (Unlisted)](https://www.youtube.com/playlist?list=PLU9vdCkJsIVlVfhIgIDVsfnCWYGNboWbm)
 
 ## 📜 License
 
-This project is open-source under the MIT License.
+This project is open-source under the [MIT License](./LICENSE).
