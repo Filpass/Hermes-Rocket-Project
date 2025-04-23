@@ -1,6 +1,6 @@
 # Hermes Rocket Project 🚀
 
-This file contains all the python files that were used the project
+This file contains all the python files that were used the project, in order to create this files the help of ChatGPT was used.
 
 ## Contents
 
